@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Home('My Movie App'),
+      home: Home('My App'),
       debugShowCheckedModeBanner: false,
     );
   }
